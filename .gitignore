@@ -1,0 +1,6 @@
+.secret
+.secret
+.history/
+.vscode/
+build/
+node_modules/
